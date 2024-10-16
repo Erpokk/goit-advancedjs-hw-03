@@ -37,7 +37,6 @@ async function handleSearch(event) {
         position: 'center',
         color: 'yellow',
       });
-      // notFoundTextEl.innerHTML = "Sorry, there are no images matching your search query. Please try again!";
       return;
     }
 
